@@ -1,0 +1,14 @@
+{
+  "event": "meeting_completed",
+  "data": {
+    "meeting_id": "fthm_89234",
+    "client_name": "Gianmarco",
+    "duration_minutes": 45,
+    "summary": "Discusión sobre la renovación de mobiliario y descuento en alquiler.",
+    "action_items": [
+      "Enviar cotización de sillas a Carlos.",
+      "Revisar contrato de arrendamiento."
+    ],
+    "status": "success"
+  }
+}
